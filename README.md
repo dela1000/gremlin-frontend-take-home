@@ -19,4 +19,4 @@ Run tests
 
 Launches the test runner in the interactive watch mode.\
 
-To test the error
+To test error handling, click on `Search NPM` without any text in the input field.
